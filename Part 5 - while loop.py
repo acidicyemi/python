@@ -11,6 +11,9 @@ while condition < 10:
     go
     here
     '''
+    """ Multi line again
+        test
+    """
     
     #condition = condition + 1
     condition += 1
